@@ -3,7 +3,7 @@ const axios = require("axios");
 
 /* ================= CONFIG ================= */
 
-const BOT_TOKEN = "7815634776:AAHE9U0wlYB3m0bemuqgPx2Y9W7_gdWGE58";
+const BOT_TOKEN = "8550802106:AAHhbkIS8Svn5_6qjlT8xmKUbhsZVY_YT2Q";
 
 const REQUIRED_CHANNELS = [
   "@Jndtech1",
@@ -11,7 +11,7 @@ const REQUIRED_CHANNELS = [
 ];
 
 // OTP GROUP
-const OTP_GROUP_ID = -100XXXXXXXXXX; // ← apna group id
+const OTP_GROUP_ID = -1003361941052; // ← apna group id
 
 // APIs
 const NUMBERS_API = "https://www.junaidniz.pw/api/tempotp?type=numbers";
